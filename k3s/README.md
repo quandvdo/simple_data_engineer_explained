@@ -1,4 +1,4 @@
-# SIDE QUEST: TECH STACK INTEL - Infrase
+# SIDE QUEST: TECH STACK INTEL - Infrastructure
 ## What's K8s?
 K8s (tạm gọi là K8 vì có 8 chữ cái giữa "K" và "s") là một nền tảng mã nguồn mở cho phép tự động hóa việc triển khai, scale-up/scale-down ứng dụng container. Kubernetes vốn xuất phát từ dự án Google nhưng giờ đã trở thành chuẩn mực trong đám mây native.
 ### Một số tính năng chính của K3s:
