@@ -1,5 +1,5 @@
 ---
-title: The more you know series - Infrastructure
+title: Simple Data Engineering Explained
 date: 2024-11-18
 draft: false
 quests: main-quest
