@@ -33,7 +33,4 @@ Kỹ sư dữ liệu làm việc chặt chẽ với các nhà khoa học dữ li
 - Mô hình hóa dữ liệu và thiết kế cơ sở dữ liệu: Kỹ sư dữ liệu làm việc chặt chẽ với các nhà khoa học dữ liệu và nhà phân tích để thiết kế các mô hình và lược đồ dữ liệu giúp lưu trữ và truy xuất dữ liệu hiệu quả.
 - Giám sát và bảo trì: Triển khai các quy trình kiểm tra chất lượng dữ liệu và xác thực để đảm bảo tính chính xác, nhất quán và toàn vẹn của dữ liệu.
 
-Các bài viết khác:
-[[TMYK - Infrastructure K8s]]
-[[TMYK - Airflow]]
-[[Roadmap - DE]]
+![simple_data_engineer_explained](/imgs/simple_data_engineering_explained.jpg)

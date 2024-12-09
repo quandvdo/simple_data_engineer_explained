@@ -13,7 +13,6 @@ featured_image: /imgs/tmyk-airflow.jpg
 ---
 ## SIDE QUEST: TECH STACK INTEL - Airflow
 
-![Images airflow](imgs/tmyk-airflow.jpg)
 Hãy tưởng tượng mớ data khổng lồ bạn đang cần đẩy vào trong database, đủ các thể loại hình thù , kích cỡ và các thể loại process phía trước. Vậy để dễ hiểu bạn có thể hình dung đống data đó là những viên gạch xây nhà, nhiều viên gạch đủ màu và mục đích cuối cùng là mình xây dựng ngôi nhà vĩ đại. Nhưng việc sếp cả nghìn viên gạch như thế rất khó để theo dõi xem viên gạch nào nên được đặt ở đâu vào lúc nào! 🧐
 
 Giới thiệu của anh Nô dữ liệu 3 đời cty sài Apache Airflow! Nói tóm tắm thì airflow nó là 1 tổ hợp nhiều chức năng giúp bạn tổ chức những viên gạch của mình (hoặc hoán dụ lại là việc xử lý mớ data hỗn độn ở trên) để mọi thứ luôn gọn gàng và ngăn nắp và có thể đo lường được.
@@ -30,8 +29,7 @@ Giới thiệu của anh Nô dữ liệu 3 đời cty sài Apache Airflow! Nói 
 
 Airflow làm cho việc xử lý dữ liệu trở nên thú vị và dễ dàng, ngay cả khi bạn mới nhập môn! Nó giống như có một a Nô dữ liệu đời thứ 4 đi ám bạn bất kể đâu![🚀](https://static.xx.fbcdn.net/images/emoji.php/v9/tc6/1/16/1f680.png)
 
+![Images airflow](/imgs/tmyk-airflow.jpg)
 
 > Hãy cùng đợi và nghịch airflow trong các kỳ tới.
 
-
-#DataEngineering#DE #ApacheAirflow#DễDàngChoNgườiMới 

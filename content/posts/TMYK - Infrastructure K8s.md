@@ -12,7 +12,7 @@ tags:
 featured_image: /imgs/tmyk-k3s_vs_k8s.jpg
 ---
 ## SIDE QUEST: TECH STACK INTEL - Infrastructure
-![tmyk-k3s_vs_k8s.jpg](imgs/tmyk-k3s_vs_k8s.jpg)
+
 ## What's K8s?
 Kubernetes[~/Ku-be-ni-ti/] - K8s (tạm gọi là K8 vì có 8 chữ cái giữa "K" và "s") là một nền tảng mã nguồn mở cho phép tự động hóa việc triển khai, scale-up/scale-down ứng dụng container. Kubernetes vốn xuất phát từ dự án Google nhưng giờ đã trở thành chuẩn mực trong đám mây native.
 ### Một số tính năng chính của K3s:
@@ -38,6 +38,6 @@ Khi lựa chọn giữa K3s và Kubernetes (k8s) cho môi trường on-premise, 
 - Đơn giản hóa cài đặt : K3s tập trung vào việc đơn giản hóa quá trình cài đặt và cấu hình Kubernetes, điều này làm cho nó trở nên dễ dàng hơn nhiều để sử dụng trong môi trường on-premise, đặc biệt là đối với các tổ chức nhỏ hoặc những người mới bắt đầu với công nghệ Kubernetes.
 - Tích hợp tốt với các hệ thống IoT và Edge : K3s thích hợp cho các giải pháp tại biên (Edge) và Internet of Things (IoT), nơi mà việc triển khai có thể cần phải chạy trên các thiết bị có nguồn lực hạn chế hơn so với máy chủ truyền thống.
 
-Những lợi ích này làm cho K3s trở thành một lựa chọn hấp dẫn cho những ai đang tìm kiếm giải pháp Kubernetes nhẹ nhàng, hiệu quả về tài nguyên và dễ dàng triển khai.
+![tmyk-k3s_vs_k8s.jpg](/imgs/tmyk-k3s_vs_k8s.jpg)
 
-#DataEngineering#DE #K8s #K3s #DễDàngChoNgườiMới 
+Những lợi ích này làm cho K3s trở thành một lựa chọn hấp dẫn cho những ai đang tìm kiếm giải pháp Kubernetes nhẹ nhàng, hiệu quả về tài nguyên và dễ dàng triển khai.
