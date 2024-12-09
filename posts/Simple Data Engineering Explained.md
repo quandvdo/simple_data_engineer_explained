@@ -8,7 +8,7 @@ tags:
   - DataEngineering
   - DễDàngChoNgườiMới
 ---
-# Simple Data Engineering Explained
+## Simple Data Engineering Explained
 
 ## Data Engineering là gì?
 Data engineering đóng vai trò quan trọng trong sự thành công của bất kỳ tổ chức nào, vì nó cho phép họ đưa ra quyết định thông minh dựa trên dữ liệu chính xác và cập nhật nhanh nhất. Data engineer chịu trách nhiệm thiết kế, xây dựng, duy trì và tối ưu hóa dữ liệu trong tổ chức.

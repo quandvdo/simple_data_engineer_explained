@@ -8,6 +8,7 @@ tags:
   - DE
   - DataEngineering
 ---
+## Roadmap - DE
 ![[roadmap-de.jpg]]
 Mình đã nhận khá nhiều câu hỏi liên quan việc các kỹ năng 1 DE cần có và hướng phát triển của bản thân để fulfill khả năng cho DE.
 
