@@ -1,20 +1,23 @@
 ---
-title: The more you know series - Infrastructure
+title: DE Infrastructure - Kubernetes
 date: 2024-12-02
 draft: false
 quests: side-quest
 tags:
+  - TMYK
   - K3s
   - K8s
   - Infras
   - DataEngineering
   - DễDàngChoNgườiMới
 featured_image: /imgs/tmyk-k3s_vs_k8s.jpg
+images:
+  - /imgs/tmyk-k3s_vs_k8s.jpg
 ---
-## SIDE QUEST: TECH STACK INTEL - Infrastructure
+## TMYK: The More You Know Series - DE Infrastructure
 
 ## What's K8s?
-Kubernetes[~/Ku-be-ni-ti/] - K8s (tạm gọi là K8 vì có 8 chữ cái giữa "K" và "s") là một nền tảng mã nguồn mở cho phép tự động hóa việc triển khai, scale-up/scale-down ứng dụng container. Kubernetes vốn xuất phát từ dự án Google nhưng giờ đã trở thành chuẩn mực trong đám mây native.
+Kubernetes[~/Ku-be-ni-ti/] - K8s (tạm gọi là K8s vì có 8 chữ cái giữa "K" và "s") là một nền tảng mã nguồn mở cho phép tự động hóa việc triển khai, scale-up/scale-down ứng dụng container. Kubernetes vốn xuất phát từ dự án Google nhưng giờ đã trở thành chuẩn mực trong đám mây native.
 ### Một số tính năng chính của K3s:
 - Automation Deploy : Tự động deploy container lên nhiều máy chủ.
 - Horizontal Scaling :SCALE-UP/SCALE-DOWN dễ dàng dựa trên tải (workload của request).

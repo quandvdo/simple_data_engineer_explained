@@ -1,5 +1,5 @@
 ---
-title: Roadmap - DE
+title: Roadmap - Data Engineer
 date: 2024-11-23
 draft: false
 quests: main-quest
@@ -8,8 +8,10 @@ tags:
   - DE
   - DataEngineering
 featured_image: /imgs/roadmap-de.jpg
+images: 
+  - /imgs/roadmap-de.jpg
 ---
-## Roadmap - DE
+## Roadmap - Data Engineers
 
 
 Mình đã nhận khá nhiều câu hỏi liên quan việc các kỹ năng 1 DE cần có và hướng phát triển của bản thân để fulfill khả năng cho DE.

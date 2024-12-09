@@ -1,5 +1,5 @@
 ---
-title: Simple Data Engineering Explained
+title: Simple Data Engineering Explained | A Nô Dữ Liệu
 date: 2024-11-18
 draft: false
 quests: main-quest
@@ -8,6 +8,8 @@ tags:
   - DataEngineering
   - DễDàngChoNgườiMới
 featured_image: /imgs/simple_data_engineering_explained.jpg
+images:
+  - /imgs/simple_data_engineering_explained.jpg
 ---
 ## Simple Data Engineering Explained
 

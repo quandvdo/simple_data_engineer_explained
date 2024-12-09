@@ -1,17 +1,20 @@
 ---
-title: The more you know series - Airflow
+title: DE Orchestrator - Airflow
 date: 2024-11-30
 draft: false
 quests: side-quest
 tags:
+  - TMYK
   - ApacheAirflow
   - Infras
   - DataEngineering
   - DE
   - DễDàngChoNgườiMới
 featured_image: /imgs/tmyk-airflow.jpg
+images: 
+  - /imgs/tmyk-airflow.jpg
 ---
-## SIDE QUEST: TECH STACK INTEL - Airflow
+## TMYK: The More You Know Series - DE Orchestrator - Airflow
 
 Hãy tưởng tượng mớ data khổng lồ bạn đang cần đẩy vào trong database, đủ các thể loại hình thù , kích cỡ và các thể loại process phía trước. Vậy để dễ hiểu bạn có thể hình dung đống data đó là những viên gạch xây nhà, nhiều viên gạch đủ màu và mục đích cuối cùng là mình xây dựng ngôi nhà vĩ đại. Nhưng việc sếp cả nghìn viên gạch như thế rất khó để theo dõi xem viên gạch nào nên được đặt ở đâu vào lúc nào! 🧐
 
