@@ -11,6 +11,7 @@ featured_image: /imgs/roadmap-de.jpg
 ---
 ## Roadmap - DE
 
+![Images roadmap-de](imgs/roadmap-de.jpg)
 Mình đã nhận khá nhiều câu hỏi liên quan việc các kỹ năng 1 DE cần có và hướng phát triển của bản thân để fulfill khả năng cho DE.
 
 1. Cần 1 ngôn ngữ lập trình : python/go/rust/C#/Java hoặc bất cứ ngôn ngữ nào cũng được. Mục đích là để bản thân hiểu được logic và application structure chạy như thế nào. Nếu bạn không có nền tảng này cũng không sao nhưng bù lại sẽ phải mất nhiều thời gian và công sức hơn để "hội nhập" với các tech stack của công ty bạn đang cần. 
