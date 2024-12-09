@@ -7,6 +7,7 @@ tags:
   - DE
   - DataEngineering
   - DễDàngChoNgườiMới
+featured_image: /imgs/simple_data_engineering_explained.jpg
 ---
 ## Simple Data Engineering Explained
 
@@ -35,3 +36,4 @@ Kỹ sư dữ liệu làm việc chặt chẽ với các nhà khoa học dữ li
 Các bài viết khác:
 [[TMYK - Infrastructure K8s]]
 [[TMYK - Airflow]]
+[[Roadmap - DE]]
